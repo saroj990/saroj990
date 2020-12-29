@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Saroj, A fulltime javascript developer from India. I love to build awesome web applications using Nodejs, VueJs and React. Passionate about exploring and learning new technolgies. 
+I am Saroj, A fulltime javascript developer from India. I love to build awesome web applications using Nodejs, VueJs and React.I am passionate about exploring and learning new technolgies. 
 <!--
 **saroj990/saroj990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
